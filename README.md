@@ -15,7 +15,7 @@ The **Climate Data Visualiser** is a Python application that provides visualizat
 ## Installation
 1. Clone the repository or download the files.
    ```bash
-   git clone https://github.com/yourusername/climate-data-visualiser.git
+   git clone https://github.com/Svignesh16/climate-data-visualiser.git
    cd climate-data-visualiser
    ```
 2. Install the required Python packages:
